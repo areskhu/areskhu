@@ -2,7 +2,7 @@
 ![Profile Count](https://komarev.com/ghpvc/?username=areskhu&color=red)&nbsp;
 [![GitHub Ares](https://img.shields.io/github/followers/richardsistemler?label=follow&style=social)](https://github.com/areskhu)&nbsp;
 <a href="https://discord.com/users/941983928045166623"><img alt="Discord" src="https://img.shields.io/badge/@▽ areskhu-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
-<a href="https://instagram.com/areszm95"><img src="https://img.shields.io/badge/@areszm95-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/areskhu"><img src="https://img.shields.io/badge/@areszm95-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 ```js
 class ares{
   constructor(options) {
